@@ -25,15 +25,15 @@
 
 
  a far too wordy orientation to z.m.l.  
- (table of contents)[https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#table-of-contents]  
+ [table of contents](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#table-of-contents)  
  brief preface to this wordy orientation  
  chapter 1 -- the "chunk" is the basic unit  
  chapter 2 -- chunks are stored in gourds  
  chapter 3 -- chunks come in two flavors  
  chapter 4 -- styling your fancy words  
- (chapter 5 -- images in your book)[https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-5images-in-your-book]  
- (chapter 6 -- creating your links)[https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-6creating-your-links]  
- (chapter 7 -- using block-quotes)[https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-7using-block-quotes]  
+ [chapter 5 -- images in your book](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-5images-in-your-book)   
+ [chapter 6 -- creating your links](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-6creating-your-links)  
+ [chapter 7 -- using block-quotes](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-7using-block-quotes)  
  chapter 8 -- footnotes and endnotes  
  chapter 9 -- different types of lists  
  chapter 10 -- the play is the thing  
