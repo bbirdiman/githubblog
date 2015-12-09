@@ -23,6 +23,7 @@
 
 
 
+
 ## table of contents
 
 
@@ -54,6 +55,7 @@
 
 
 
+
 ## brief preface to<br>this wordy orientation
 
 
@@ -75,6 +77,7 @@ a table of contents. if your document is one
 that would benefit from a table of contents,
 you'll probably find it wise to use z.m.l. for it,
 because z.m.l. has the features you will need.
+
 
 
 
@@ -184,6 +187,7 @@ you will separate a z.m.l. file into chunks
 by simply splitting the text on blank lines;
 that is, you split on a pair of line-breaks.
 now we return to regular-person readers.)
+
 
 
 
@@ -356,6 +360,7 @@ represents the start of the next gourd. nifty!
 because, you see, z.m.l. has been specially
 designed, by a programmer, to be nice for
 programmers, in addition to regular people.
+
 
 
 
@@ -544,6 +549,8 @@ but as far as doing the job, quickly and easily, it works.
 
 
 
+
+
 ## chapter 4<br><br>styling your fancy words
 
 
@@ -616,6 +623,7 @@ nice.
 
 
 
+
 ## chapter 5<br><br>images in your book
 
 
@@ -649,6 +657,7 @@ an ass-backwards glitch in the program i will fix.
     http://z-m-l.com/go/alice/cat_fades.png
     ![](http://z-m-l.com/go/alice/cat_fades.png)
  ***
+
 
 
 
@@ -710,6 +719,7 @@ than from yahoo[yoop] and m.s.n.[moop] combined.
 
 
 
+
 ## chapter 7<br><br>using block-quotes
 
 
@@ -734,6 +744,7 @@ you should note that the first method
 the second (using the right-angle-bracket)
 does not rewrap the lines. so use the one
 which meets your needs better in each case.
+
 
 
 
@@ -818,6 +829,7 @@ you click between the two of them.[4]
 the paragraph which contains it, or at the end
 of the chapter containing it, or in a gourd at
 the end of the book with all the other footnotes.
+
 
 
 
@@ -1001,6 +1013,7 @@ so the browser does the numbering.
 
 
 
+
 ## chapter 10<br><br>the play is the thing
 
 
@@ -1086,6 +1099,7 @@ a: yes, i do.
 
 
 
+
 ## chapter 11<br><br>how to lay out tables
 
 
@@ -1138,6 +1152,7 @@ you can even mix up these two approaches.
  |    .html                   yes | no  
  | .rtf | no | yes  
  |    .pdf            |          no                   no
+
 
 
 
@@ -1290,10 +1305,12 @@ you can even get downwight fweaky!
 
 
 
+
 ## chapter 13<br><br>unlucky number 13
 
 
 there is no 13th floor in most buildings.
+
 
 
 
@@ -1312,6 +1329,7 @@ sometimes a chapter starts with a nice pithy quote,
 which is usually _italicized,_ and often right-justified.
 
 so you wanna be able to handle that kind of thing.[5]
+
 
 
 
@@ -1379,6 +1397,7 @@ best to begin the chunk with an empty tag:
 
 
 
+
 ## chapter 16<br><br>hyphens and dashes
 
 
@@ -1397,11 +1416,13 @@ make that mistake. it's rather embarrassing, eh?
 
 
 
+
 ## chapter 17<br><br>hyphenation stinks
 
 
 do not hyphenate your text. e-books do not need it.
 and you never know exactly how the text will reflow.
+
 
 
 
@@ -1426,6 +1447,7 @@ introduced extra spaces in unwanted places.
 so the best tactic to use these days is to put
 only one space after a sentence, and _hope_
 browsers will soon support better typography.
+
 
 
 
@@ -1497,6 +1519,7 @@ it should be treated as a regular paragraph.
 [6] you probably shouldn't mix footnotes and endnotes,
 like i have done in this book, because that'll just make it
 confusing for your readers. so choose one or the other.
+
 
 
 
