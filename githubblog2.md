@@ -34,10 +34,10 @@
  chapter 6 -- creating your links  
  chapter 7 -- using block-quotes  
  chapter 8 -- footnotes and endnotes  
- chapter 9 -- different types of lists
- chapter 10 -- the play is the thing
- chapter 11 -- how to lay out tables
- chapter 12 -- justify poetry silly-willy
+ chapter 9 -- different types of lists  
+ chapter 10 -- the play is the thing  
+ chapter 11 -- how to lay out tables  
+ chapter 12 -- justify poetry silly-willy  
  chapter 13 -- unlucky number 13  
  chapter 14 -- epigraphs and epitaphs  
  chapter 15 -- preformatted text  
@@ -809,9 +809,7 @@ the end of the book with all the other footnotes.
 
 
 
- chapter 9
-
- different types of lists
+# chapter 9<br><br> different types of lists
 
 
 you use the " * " tag at the start of a chunk
@@ -988,9 +986,7 @@ so the browser does the numbering.
 
 
 
- chapter 10
-
- the play is the thing
+# chapter 10<br><br> the play is the thing
 
 
 z.m.l. *bolds* the first word of a paragraph
