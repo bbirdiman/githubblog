@@ -24,29 +24,29 @@
 ## table of contents
 
 
- a far too wordy orientation to z.m.l.  
+ [a far too wordy orientation to z.m.l.](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#a-far-too-wordyorientation-to-zml)  
  [table of contents](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#table-of-contents)  
- brief preface to this wordy orientation  
- chapter 1 -- the "chunk" is the basic unit  
- chapter 2 -- chunks are stored in gourds  
- chapter 3 -- chunks come in two flavors  
- chapter 4 -- styling your fancy words  
+ [brief preface to this wordy orientation](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#brief-preface-to-this-wordy-orientation)    
+ [chapter 1 -- the "chunk" is the basic unit](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-1the-chunk-is-the-basic-unit)    
+ [chapter 2 -- chunks are stored in gourds](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-2chunks-are-stored-in-gourds)    
+ [chapter 3 -- chunks come in two flavors](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-3chunks-come-in-two-flavors)    
+ [chapter 4 -- styling your fancy words](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-4styling-your-fancy-words)    
  [chapter 5 -- images in your book](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-5images-in-your-book)   
  [chapter 6 -- creating your links](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-6creating-your-links)  
  [chapter 7 -- using block-quotes](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-7using-block-quotes)  
- chapter 8 -- footnotes and endnotes  
- chapter 9 -- different types of lists  
- chapter 10 -- the play is the thing  
- chapter 11 -- how to lay out tables  
- chapter 12 -- justify poetry silly-willy  
- chapter 13 -- unlucky number 13  
- chapter 14 -- epigraphs and epitaphs  
- chapter 15 -- preformatted text  
- chapter 16 -- hyphens and dashes  
- chapter 17 -- hyphenation stinks  
- chapter 18 -- spaces after a sentence  
- chapter 19 -- the end-notes section  
- chapter 20 -- meta-data for this book  
+ [chapter 8 -- footnotes and endnotes](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-8footnotes-and-endnotes)  
+ [chapter 9 -- different types of lists](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-9different-types-of-lists)  
+ [chapter 10 -- the play is the thing](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-10the-play-is-the-thing)  
+ [chapter 11 -- how to lay out tables](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-11how-to-lay-out-tables)  
+ [chapter 12 -- justify poetry silly-willy](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-12justify-poetry-silly-willy)  
+ [chapter 13 -- unlucky number 13](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-13unlucky-number-13)  
+ [chapter 14 -- epigraphs and epitaphs](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-14epigraphs-and-epitaphs)  
+ [chapter 15 -- preformatted text](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-15preformatted-text)  
+ [chapter 16 -- hyphens and dashes](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-16hyphens-and-dashes)  
+ [chapter 17 -- hyphenation stinks](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-17hyphenation)  
+ [chapter 18 -- spaces after a sentence](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-18spaces-after-a-sentence)  
+ [chapter 19 -- the end-notes section](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-19the-end-notes)  
+ [chapter 20 -- meta-data for this book](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-20meta-data-for-this-book)  
 
 
 
