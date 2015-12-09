@@ -1494,3 +1494,5 @@ here's the meta-data:
  http://wellwellandwhathavewehere.com/islandscoupon.png
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+ https://raw.githubusercontent.com/bbirdiman/githubblog/master/githubblog2.md
