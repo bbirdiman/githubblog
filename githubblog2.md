@@ -3,16 +3,16 @@
 
  by bowerbird intelligentleman
 
- i am doing another change to test the update checker,
+ i am doing another change to test the update checker,  
  which seems to be working quite nicely, thank you.
 
- you can "view source" for this document here:
+ you can "view source" for this document here:  
  http://zenmagiclove.com/zml/suite/suite.zml
 
- hi chris. if you have any questions, let me know.
- you'll find the .mobi in the .mobi directory.
- the .epub is in the main directory, because
- the only files allowed in the .epub directory
+ hi chris. if you have any questions, let me know.  
+ you'll find the .mobi in the .mobi directory.  
+ the .epub is in the main directory, because  
+ the only files allowed in the .epub directory  
  are the files which actually go in the .epub.
 
  http://zenmagiclove.com/zml/suite/suite.jpg
@@ -20,7 +20,7 @@
 
 
 
-# table of contents
+## table of contents
 
 
  a far too wordy orientation to z.m.l.  
@@ -50,7 +50,7 @@
 
 
 
-# brief preface to<br>this wordy orientation
+## brief preface to<br>this wordy orientation
 
 
 this document gives you an orientation on
@@ -75,7 +75,7 @@ because z.m.l. has the features you will need.
 
 
 
-# chapter 1<br><br> the "chunk" is the basic unit
+## chapter 1<br><br>the "chunk" is the basic unit
 
 
 "zen markup language" -- z.m.l. for short --
@@ -183,7 +183,7 @@ now we return to regular-person readers.)
 
 
 
-# chapter 2<br><br> chunks are stored in gourds
+## chapter 2<br><br>chunks are stored in gourds
 
 
 in a book, paragraphs join into "chapters".
@@ -354,7 +354,7 @@ programmers, in addition to regular people.
 
 
 
-# chapter 3<br><br> chunks come in two flavors
+## chapter 3<br><br>chunks come in two flavors
 
 
 now we get to the actual markup instructions.
@@ -490,13 +490,13 @@ as their initial character, so that gives a certain look.
 
 but now let's see that same list of tags, as a list:
 
- * space-asterisk-space == tag for an unordered list
- * space->-space == tag for a block-quote
- * space-|-space == tag for a table
- * space-#-space == tag for an ordered list
- * space-o-space == unordered list, different bullet
- * space-+-space == unordered list, different indent
- * space-=-space == unordered list, different bullet
+ * space-asterisk-space == tag for an unordered list  
+ * space->-space == tag for a block-quote  
+ * space-|-space == tag for a table  
+ * space-#-space == tag for an ordered list  
+ * space-o-space == unordered list, different bullet  
+ * space-+-space == unordered list, different indent  
+ * space-=-space == unordered list, different bullet  
  * space-x-space == unordered list, no bullet
 
 once you've learned the tag for a structural element,
@@ -522,13 +522,13 @@ and they are automatically centered in rendered output.
 
 so let's look at that list again, this time centered:
 
- space-asterisk-space == tag for an unordered list
- space->-space == tag for a block-quote
- space-|-space == tag for a table
- space-#-space == tag for an ordered list
- space-o-space == unordered list, different bullet
- space-+-space == unordered list, different indent
- space-=-space == unordered list, different bullet
+ space-asterisk-space == tag for an unordered list  
+ space->-space == tag for a block-quote  
+ space-|-space == tag for a table  
+ space-#-space == tag for an ordered list  
+ space-o-space == unordered list, different bullet  
+ space-+-space == unordered list, different indent  
+ space-=-space == unordered list, different bullet  
  space-x-space == unordered list, no bullet
 
 well, it ain't gonna win any beauty contents, for sure,
@@ -537,7 +537,7 @@ but as far as doing the job, quickly and easily, it works.
 
 
 
-# chapter 4<br><br> styling your fancy words
+## chapter 4<br><br>styling your fancy words
 
 
 in light-markup systems, the input file is in
@@ -608,7 +608,7 @@ nice.
 
 
 
-# chapter 5<br><br> images in your book
+## chapter 5<br><br>images in your book
 
 
 to include an image in your book, just enter its u.r.l.
@@ -626,7 +626,7 @@ or conversation?"
 you can put a caption on your image if you like.
 list the caption first, then give the image u.r.l.
 
- here alice is holding a pig. imagine that!
+ here alice is holding a pig. imagine that!  
  http://z-m-l.com/go/alice/alice_holding.png
 
 notice that even though you put the caption first,
@@ -635,7 +635,7 @@ an ass-backwards glitch in the program i will fix.
 
  ***
 
-    here is the caption for cat fades
+    here is the caption for cat fades  
     http://z-m-l.com/go/alice/cat_fades.png
 
  ***
@@ -643,7 +643,7 @@ an ass-backwards glitch in the program i will fix.
 
 
 
-# chapter 6<br><br> creating your links
+## chapter 6<br><br>creating your links
 
 
 remember how, in chapter 2, we said
@@ -698,23 +698,23 @@ than from yahoo[yoop] and m.s.n.[moop] combined.
 
 
 
-# chapter 7<br><br> using block-quotes
+## chapter 7<br><br>using block-quotes
 
 
 you can get a blockquote like this.
 
- : four score and seven years ago, our
- : forefathers set forth upon this continent
- : a new nation, conceived in liberty and
- : dedicated to the proposition that
+ : four score and seven years ago, our  
+ : forefathers set forth upon this continent  
+ : a new nation, conceived in liberty and  
+ : dedicated to the proposition that  
  : all men[1] are created equal.
 
 or like this:
 
- > four score and seven years ago, our
- > forefathers set forth upon this continent
- > a new nation, conceived in liberty and
- > dedicated to the proposition that
+ > four score and seven years ago, our  
+ > forefathers set forth upon this continent  
+ > a new nation, conceived in liberty and  
+ > dedicated to the proposition that  
  > all men[2] are created equal.
 
 you should note that the first method
@@ -726,7 +726,7 @@ which meets your needs better in each case.
 
 
 
-# chapter 8<br><br> footnotes and endnotes
+## chapter 8<br><br>footnotes and endnotes
 
 
 your book can have footnotes.[3]
@@ -809,21 +809,21 @@ the end of the book with all the other footnotes.
 
 
 
-# chapter 9<br><br> different types of lists
+## chapter 9<br><br>different types of lists
 
 
 you use the " * " tag at the start of a chunk
 to make a list, an "unordered" list that has
 the usual circular bullet-point as its marker.
 
- * one -- the list with *asterisk* tag
- * two
- * three
- * four
- * five
- * six
- * seven
- * i forget what 8 was for.
+ * one -- the list with *asterisk* tag  
+ * two  
+ * three  
+ * four  
+ * five  
+ * six  
+ * seven  
+ * i forget what 8 was for.  
  * number 9, number 9...
 
 as you can see in this example, every item
@@ -834,14 +834,14 @@ must be prefaced with the same character.
 and you can use " o " for a list, a tag that
 will use an _unfilled_ _bullet_ as its marker.
 
- o mercury -- the list with "o" tag
- o venus
- o earth
- o mars
- o jupiter
- o saturn
- o uranus
- o neptune
+ o mercury -- the list with "o" tag  
+ o venus  
+ o earth  
+ o mars  
+ o jupiter  
+ o saturn  
+ o uranus  
+ o neptune  
  o pluto
 
  ***
@@ -849,14 +849,14 @@ will use an _unfilled_ _bullet_ as its marker.
 you can also use " = " to create a list;
 this tag uses a solid square as its bullet.
 
- = one -- the list with "=" tag
- = two
- = three
- = four
- = five
- = six
- = seven
- = i forget what 8 was for.
+ = one -- the list with "=" tag  
+ = two  
+ = three  
+ = four  
+ = five  
+ = six  
+ = seven  
+ = i forget what 8 was for.  
  = number 9, number 9...
 
  ***
@@ -865,14 +865,14 @@ then you can use " + " for a list you want
 to be indented one level, and which uses
 a filled bullet-point as marker-character.
 
- + one -- the list with "+" tag
- + two
- + three
- + four
- + five
- + six
- + seven
- + i forget what 8 was for.
+ + one -- the list with "+" tag  
+ + two  
+ + three  
+ + four  
+ + five  
+ + six  
+ + seven  
+ + i forget what 8 was for.  
  + number 9, number 9...
 
 remember if you're looking at the input,
@@ -887,14 +887,14 @@ lastly, you can use " - " to make a list
 that will get indented _two_ levels and
 use an unfilled circle as its bullet-point.
 
- - one -- the list with "-" tag
- - two
- - three
- - four
- - five
- - six
- - seven
- - i forget what 8 was for.
+ - one -- the list with "-" tag  
+ - two  
+ - three  
+ - four  
+ - five  
+ - six  
+ - seven  
+ - i forget what 8 was for.  
  - number 9, number 9...
 
 
@@ -906,14 +906,14 @@ zen-user-base, when it gets gathered.
 
 finally, you can use " x " to make a list.
 
- x one -- the list with "x" tag
- x two
- x three
- x four
- x five
- x six
- x seven
- x i forget what 8 was for.
+ x one -- the list with "x" tag  
+ x two  
+ x three  
+ x four  
+ x five  
+ x six  
+ x seven  
+ x i forget what 8 was for.  
  x number 9, number 9...
 
 the " x " prefix has _no_ bullet at all.
@@ -929,14 +929,14 @@ but is actually a no-bullet unordered list,
 with the number specifically included,
 thanks to its use of the " x " tag.
 
- x 1. one
- x 2. two
- x 3. three
- x 4. four
- x 5. five
- x 6. six
- x 7. seven
- x 8. i still forget what 8 was for.
+ x 1. one  
+ x 2. two  
+ x 3. three  
+ x 4. four  
+ x 5. five  
+ x 6. six  
+ x 7. seven  
+ x 8. i still forget what 8 was for.  
  x 9. number 9, number 9...
 
  ***
@@ -947,24 +947,24 @@ then the number specifically included,
 but we mix things up a bit, to show
 how to do non-sequential numbers.
 
- x 101. one
- x 202. two
- x 3. three
- x 4444. four
- x 55555. five
- x 6. six
- x 77. seven
- x 88. i still forget what 8 was for.
+ x 101. one  
+ x 202. two  
+ x 3. three  
+ x 4444. four  
+ x 55555. five  
+ x 6. six  
+ x 77. seven  
+ x 88. i still forget what 8 was for.  
  x 9. number 9, number 9...
 
 that example seems kind of silly, yes,
 but there are many meaningful ones.
 
- x 800bc -- north america gets inhabited
- x 1492 -- columbus "discovers" america
- x 1620 -- pilgrams land on plymouth rock
- x 1622 -- "indians" feed starving pilgrims
- x 1809 -- white men start "indian" genocide
+ x 800bc -- north america gets inhabited  
+ x 1492 -- columbus "discovers" america  
+ x 1620 -- pilgrams land on plymouth rock  
+ x 1622 -- "indians" feed starving pilgrims  
+ x 1809 -- white men start "indian" genocide  
  x 1964 -- civil rights act passes congress
 
  ***
@@ -973,20 +973,20 @@ here's another numbered list, except
 this time it's a plain .html ordered list,
 so the browser does the numbering.
 
- # one -- the list with "#" tag
- # two
- # three
- # four
- # five
- # six
- # seven
- # i still forget what 8 was for.
+ # one -- the list with "#" tag  
+ # two  
+ # three  
+ # four  
+ # five  
+ # six  
+ # seven  
+ # i still forget what 8 was for.  
  # number 9, number 9...
 
 
 
 
-# chapter 10<br><br> the play is the thing
+## chapter 10<br><br>the play is the thing
 
 
 z.m.l. *bolds* the first word of a paragraph
@@ -1070,7 +1070,7 @@ a: yes, i do.
 
 
 
-# chapter 11<br><br>how to lay out tables
+## chapter 11<br><br>how to lay out tables
 
 
 you can have tables in your book, simple ones.
@@ -1080,11 +1080,11 @@ to signify a table, you use the " | " or-bar tag.
 then use multiple-spaces to separate the cells.
 there must be at least 3 spaces between cells.
 
- | table 1         column 1   column 2
- | plain-text    yes            yes
- | x.m.l.           no             yes
- | .html             yes            no
- | .rtf               no              yes
+ | table 1         column 1   column 2  
+ | plain-text    yes            yes  
+ | x.m.l.           no             yes  
+ | .html             yes            no  
+ | .rtf               no              yes  
  | .pdf             no              no
 
  ***
@@ -1094,39 +1094,39 @@ first line, skipping it on the subsequent lines,
 but you must start those subsequent lines with
 at least 3 spaces.
 
- |  table 1         column 1   column 2
-   plain-text    yes            yes
-    x.m.l.           no             yes
-    .html             yes            no
-    .rtf               no              yes
+ |  table 1         column 1   column 2  
+   plain-text    yes            yes  
+    x.m.l.           no             yes  
+    .html             yes            no  
+    .rtf               no              yes  
     .pdf             no              no
 
  ***
 
 you can also use or-bars to separate the cells.
 
- | table 1 | column 1 | column 2
- | plain-text | yes | yes
- | x.m.l. | no | yes
- | .html | yes | no
- | .rtf | no | yes
+ | table 1 | column 1 | column 2  
+ | plain-text | yes | yes  
+ | x.m.l. | no | yes  
+ | .html | yes | no  
+ | .rtf | no | yes  
  | .pdf | no | no
 
  ***
 
 you can even mix up these two approaches.
 
- |      table 1           column 1  |      column 2
- |    plain-text            yes                 yes
- |    x.m.l.                no                 yes
- |    .html                   yes | no
- | .rtf | no | yes
+ |      table 1           column 1  |      column 2  
+ |    plain-text            yes                 yes  
+ |    x.m.l.                no                 yes  
+ |    .html                   yes | no  
+ | .rtf | no | yes  
  |    .pdf            |          no                   no
 
 
 
 
-# chapter 12<br><br> justify poetry silly-willy
+## chapter 12<br><br>justify poetry silly-willy
 
 
 most paper-books traditionally used justification,
@@ -1160,12 +1160,12 @@ this rule works as well for each line within a chunk;
 each line in the haiku entered below has a space in
 the first column, so each is centered in the output:
 
- t.v. will eat you
- (a haiku by bowerbird intelligentleman)
- .
- t.v. will eat you
- out of a satellite dish
- with a tuning fork
+ t.v. will eat you  
+ (a haiku by bowerbird intelligentleman)  
+ .  
+ t.v. will eat you  
+ out of a satellite dish  
+ with a tuning fork  
  .
 
 sometimes you want to indent a _block_ of lines,
@@ -1175,12 +1175,12 @@ z.m.l. lets you obtain that kind of effect easily;
 just use multiple spaces -- you need at least 5 --
 to get a chunk that's left-justified and indented.
 
-               a haiku for you
-               (by bowerbird intelligentleman)
- .
-               haiku have three lines
-               and seventeen syllables
-               five, seven, and five
+               a haiku for you  
+               (by bowerbird intelligentleman)  
+ .  
+               haiku have three lines  
+               and seventeen syllables  
+               five, seven, and five  
  .
 
 note that this won't necessarily _center_ the block
@@ -1195,68 +1195,68 @@ it's best to be conservative; a small indent still works.
 
 you can also vary spacing, as some poems like to do.
 
-      six spaces at the start of this line
-            12 spaces at the start of this line
-      six spaces at the start of this line
+      six spaces at the start of this line  
+            12 spaces at the start of this line  
+      six spaces at the start of this line  
             12 spaces at the start of this line
 
-            12 spaces at the start of this line
-                        24 spaces at the start of this line
-            12 spaces at the start of this line
+            12 spaces at the start of this line  
+                        24 spaces at the start of this line  
+            12 spaces at the start of this line  
                         24 spaces at the start of this line
 
 you can even get downwight fweaky!
 
-      six spaces at the start of this line
-          ten spaces at the start of this line
-              14 spaces at the start of this line
-                  18 spaces at the start of this line
-                      22 spaces at the start of this line
-                          26 spaces at the start of this line
-                      22 spaces at the start of this line
-                  18 spaces at the start of this line
-              14 spaces at the start of this line
-          ten spaces at the start of this line
+      six spaces at the start of this line  
+          ten spaces at the start of this line  
+              14 spaces at the start of this line  
+                  18 spaces at the start of this line  
+                      22 spaces at the start of this line  
+                          26 spaces at the start of this line  
+                      22 spaces at the start of this line  
+                  18 spaces at the start of this line  
+              14 spaces at the start of this line  
+          ten spaces at the start of this line  
       six spaces at the start of this line
 
  ***
 
- the input for the 2 chunks that follow has
+ the input for the 2 chunks that follow has  
  a space in the first column of all of the lines.
 
  you know about a space in the first column.
 
- a space in the first column will center a line,
- or -- applied to each line in a group of lines --
+ a space in the first column will center a line,  
+ or -- applied to each line in a group of lines --  
  will end up centering the entire block of lines.
 
  ***
 
-  this chunk, and the next chunk as well, has
+  this chunk, and the next chunk as well, has  
   two (2) spaces at the beginning of each line.
 
-  if you want to explicitly declare a block as
-  left-justified, you start it with _two_ _spaces._
+  if you want to explicitly declare a block as  
+  left-justified, you start it with _two_ _spaces._  
   this puts it at the left margin, with no indent.
 
  ***
 
-   this chunk, and the next chunk as well, has
-   three (3) spaces at the beginning of each line.
-   _three_ _spaces_ at the start of a line will
+   this chunk, and the next chunk as well, has  
+   three (3) spaces at the beginning of each line.  
+   _three_ _spaces_ at the start of a line will  
    cause it to be centered, just like one space.
 
-   yes, it's redundant, but it keeps continuity
-   as we move from 2 spaces to 4, taking the
+   yes, it's redundant, but it keeps continuity  
+   as we move from 2 spaces to 4, taking the  
    alignment from left through center to right.
 
  ***
 
-    this chunk, and the next chunk as well, has
+    this chunk, and the next chunk as well, has  
     four (4) spaces at the beginning of each line.
 
-    so, filling out the left-center-right concept,
-    4 spaces at the start of a line will cause it to
+    so, filling out the left-center-right concept,  
+    4 spaces at the start of a line will cause it to  
     be right-justified.
 
  ***
@@ -1272,7 +1272,7 @@ you can even get downwight fweaky!
 
 
 
-# chapter 13<br><br>unlucky number 13
+## chapter 13<br><br>unlucky number 13
 
 
 there is no 13th floor in most buildings.
@@ -1280,12 +1280,12 @@ there is no 13th floor in most buildings.
 
 
 
-# chapter 14<br><br> epigraphs and epitaphs
+## chapter 14<br><br>epigraphs and epitaphs
 
 
-    _there's_ _an_ _old_ _proverb_
-    _that_ _says_ _just_ _about_
-    _whatever_ _you_ _want_ _it_ _to..._
+    _there's_ _an_ _old_ _proverb_  
+    _that_ _says_ _just_ _about_  
+    _whatever_ _you_ _want_ _it_ _to..._  
     _--_ _slashdot_
 
 
@@ -1297,7 +1297,7 @@ so you wanna be able to handle that kind of thing.[5]
 
 
 
-# chapter 15<br><br> preformatted text
+## chapter 15<br><br>preformatted text
 
 
 some long-form texts have a need to present
@@ -1329,36 +1329,36 @@ best to begin the chunk with an empty tag:
 // that is a tilde.
 // i always spell that word wrong
 
- `
- ` // now is the time for all good men to
+ `  
+ ` // now is the time for all good men to  
  ` // come to the aid of their good women
 
- ~
- ~ // the backtick code in the line above has
- ~ // signified that this chunk is source-code
- ~ // that should be shown with .html's "code"
- ~ // tag, i.e., monospaced and preformatted.
- ~ <script type=text/javascript>
- ~    $(document).ready(function () {
- ~       gdi=setInterval(function(){doit()},1000)
- ~    })
- ~ </script>
- ~ // this is known in light-markup circles as
- ~ // "a fenced block", since the backtick(s)
- ~ // up top sets a "fence" around the code.
- ~ // the code block is then usually followed
- ~ // by a closing "fence" of backtick(s), but
- ~ // in z.m.l., a blank line closes all elements,
- ~ // so we don't need a "closing" fence here.
- ~ // however, this does mean that the code
- ~ // cannot contain any blank lines inside it,
- ~ // so you must stay cognizant of that fact.
+ ~  
+ ~ // the backtick code in the line above has  
+ ~ // signified that this chunk is source-code  
+ ~ // that should be shown with .html's "code"  
+ ~ // tag, i.e., monospaced and preformatted.  
+ ~ <script type=text/javascript>  
+ ~    $(document).ready(function () {  
+ ~       gdi=setInterval(function(){doit()},1000)  
+ ~    })  
+ ~ </script>  
+ ~ // this is known in light-markup circles as  
+ ~ // "a fenced block", since the backtick(s)  
+ ~ // up top sets a "fence" around the code.  
+ ~ // the code block is then usually followed  
+ ~ // by a closing "fence" of backtick(s), but  
+ ~ // in z.m.l., a blank line closes all elements,  
+ ~ // so we don't need a "closing" fence here.  
+ ~ // however, this does mean that the code  
+ ~ // cannot contain any blank lines inside it,  
+ ~ // so you must stay cognizant of that fact.  
  ~ // comment out blank lines in your code.
 
 
 
 
-# chapter 16<br><br> hyphens and dashes
+## chapter 16<br><br>hyphens and dashes
 
 
 use a double-dash -- like these in the input --
@@ -1375,7 +1375,7 @@ make that mistake. it's rather embarrassing, eh?
 
 
 
-# chapter 17<br><br> hyphenation stinks
+## chapter 17<br><br>hyphenation stinks
 
 
 do not hyphenate your text. e-books do not need it.
@@ -1384,7 +1384,7 @@ and you never know exactly how the text will reflow.
 
 
 
-# chapter 18<br><br> spaces after a sentence
+## chapter 18<br><br>spaces after a sentence
 
 
 typesetters in the past set a bit of extra space
@@ -1407,7 +1407,7 @@ browsers will soon support better typography.
 
 
 
-# chapter 19<br><br> the end-notes section
+## chapter 19<br><br>the end-notes section
 
 
 here are the footnotes used in this book.
@@ -1477,18 +1477,18 @@ confusing for your readers. so choose one or the other.
 
 
 
-# chapter 20 <br><br> meta-data for this book
+## chapter 20<br><br>meta-data for this book
 
 
 here's the meta-data:
 
- o title = a brief introduction to z.m.l.
- o author = bowerbird intelligentleman
- o purpose = brief introduction to z.m.l.
- o markup = zen markup language (.zml)
- o isbn = urn:isbn:0000000000000
- o publisher = jaguar(ps)
- o subject = zen markup language, a.k.a. z.m.l.
+ o title = a brief introduction to z.m.l.  
+ o author = bowerbird intelligentleman  
+ o purpose = brief introduction to z.m.l.  
+ o markup = zen markup language (.zml)  
+ o isbn = urn:isbn:0000000000000  
+ o publisher = jaguar(ps)  
+ o subject = zen markup language, a.k.a. z.m.l.  
  o rights = copyright 2013 -- all rights reserved
 
  http://wellwellandwhathavewehere.com/islandscoupon.png
