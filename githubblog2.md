@@ -25,7 +25,7 @@
 
 
  a far too wordy orientation to z.m.l.  
- table of contents  
+ (table of contents)[https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#table-of-contents]  
  brief preface to this wordy orientation  
  chapter 1 -- the "chunk" is the basic unit  
  chapter 2 -- chunks are stored in gourds  
