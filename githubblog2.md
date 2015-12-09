@@ -17,6 +17,7 @@
 
  http://zenmagiclove.com/zml/suite/suite.jpg
 
+![](http://zenmagiclove.com/zml/suite/suite.jpg)
 
 
 
@@ -614,6 +615,8 @@ nice.
 to include an image in your book, just enter its u.r.l.
 
  http://z-m-l.com/go/alice/checking_watch.png
+ ![](http://z-m-l.com/go/alice/checking_watch.png)
+
 
 "what is the
 use of a book,"
@@ -637,7 +640,7 @@ an ass-backwards glitch in the program i will fix.
 
     here is the caption for cat fades  
     http://z-m-l.com/go/alice/cat_fades.png
-
+ ![](http://z-m-l.com/go/alice/cat_fades.png)
  ***
 
 
@@ -1492,6 +1495,8 @@ here's the meta-data:
  o rights = copyright 2013 -- all rights reserved
 
  http://wellwellandwhathavewehere.com/islandscoupon.png
+ 
+  ![](http://wellwellandwhathavewehere.com/islandscoupon.png)
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
