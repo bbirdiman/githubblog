@@ -640,7 +640,7 @@ an ass-backwards glitch in the program i will fix.
 
     here is the caption for cat fades  
     http://z-m-l.com/go/alice/cat_fades.png
- ![](http://z-m-l.com/go/alice/cat_fades.png)
+    ![](http://z-m-l.com/go/alice/cat_fades.png)
  ***
 
 
