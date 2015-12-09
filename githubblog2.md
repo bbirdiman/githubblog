@@ -1358,9 +1358,7 @@ best to begin the chunk with an empty tag:
 
 
 
- chapter 16
-
- hyphens and dashes
+# chapter 16<br><br> hyphens and dashes
 
 
 use a double-dash -- like these in the input --
@@ -1377,9 +1375,7 @@ make that mistake. it's rather embarrassing, eh?
 
 
 
- chapter 17
-
- hyphenation stinks
+# chapter 17<br><br> hyphenation stinks
 
 
 do not hyphenate your text. e-books do not need it.
