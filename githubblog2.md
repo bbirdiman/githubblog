@@ -26,7 +26,7 @@
 
  [a far too wordy orientation to z.m.l.](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#a-far-too-wordyorientation-to-zml)  
  [table of contents](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#table-of-contents)  
- [brief preface to this wordy orientation](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#brief-preface-to-this-wordy-orientation)    
+ [brief preface to this wordy orientation](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#brief-preface-tothis-wordy-orientation)    
  [chapter 1 -- the "chunk" is the basic unit](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-1the-chunk-is-the-basic-unit)    
  [chapter 2 -- chunks are stored in gourds](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-2chunks-are-stored-in-gourds)    
  [chapter 3 -- chunks come in two flavors](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-3chunks-come-in-two-flavors)    
@@ -43,9 +43,9 @@
  [chapter 14 -- epigraphs and epitaphs](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-14epigraphs-and-epitaphs)  
  [chapter 15 -- preformatted text](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-15preformatted-text)  
  [chapter 16 -- hyphens and dashes](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-16hyphens-and-dashes)  
- [chapter 17 -- hyphenation stinks](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-17hyphenation)  
+ [chapter 17 -- hyphenation stinks](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-17hyphenation-stinks)  
  [chapter 18 -- spaces after a sentence](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-18spaces-after-a-sentence)  
- [chapter 19 -- the end-notes section](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-19the-end-notes)  
+ [chapter 19 -- the end-notes section](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-19the-end-notes-section)  
  [chapter 20 -- meta-data for this book](https://github.com/bbirdiman/githubblog/blob/master/githubblog2.md#chapter-20meta-data-for-this-book)  
 
 
