@@ -31,9 +31,9 @@
  chapter 2 -- chunks are stored in gourds  
  chapter 3 -- chunks come in two flavors  
  chapter 4 -- styling your fancy words  
- chapter 5 -- images in your book  
- chapter 6 -- creating your links  
- chapter 7 -- using block-quotes  
+ (chapter 5 -- images in your book)[#chapter-5images-in-your-book]  
+ (chapter 6 -- creating your links)[#chapter-6creating-your-links]  
+ (chapter 7 -- using block-quotes)[#chapter-7using-block-quotes]  
  chapter 8 -- footnotes and endnotes  
  chapter 9 -- different types of lists  
  chapter 10 -- the play is the thing  
