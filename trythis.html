@@ -1,0 +1,60 @@
+<!doctype html><html><head><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>brainhump</title>
+<script src="http://zenmagiclove.com/simple/chjj-marked.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<style>
+* {border-sizing:border-box}
+html {margin:0;padding:0;width:99.8%}
+body {background-color:lightblue;width:99.8%;margin:0;padding:0;
+border-width:1px;border-style:solid;border-color:black}
+p {color:black; text-align:left; font-family:serif}
+h1,h2,h3 {text-align:center;margin:0;padding:0}
+button {display:inline-block;height:36px;margin:0;padding:0}
+img {width:95%;margin:auto;padding:0}
+.noter {display:inline-block; background-color:honeydew;
+width:200px;height:300px; margin:2px;padding:8px;padding-top:0;
+overflow-x:hidden;overflow-y:scroll; -webkit-overflow-scrolling: touch;
+border-width:2px;border-style:solid;border-color:gray}
+</style>
+</head>
+<body id=thebody onload=doload()>
+
+<div style=width:80%;height:500px;border-width:2px;border-style:solid;border-color:blue>
+<textarea id=holdme style=width:95%;margin:0;padding:20px;height:95%;>holdme</textarea>
+</div>
+
+
+<script>
+function doload() {
+document.title="hello world"
+dogetit()
+dosound()
+}</script>
+
+
+
+<script>
+function dogetit() {
+theurl="https://raw.githubusercontent.com/bbirdiman/githubblog/master/githubblog2.md"
+//ajax get post
+$.ajaxSetup({cache:false})
+$.ajax({
+url:theurl,
+dataType:'text',
+fail:function(data){$("#searchfield").val(" fail! "); document.title=" fail! "},
+success:function(data){$("#holdme").val(data)}
+})
+}</script>
+
+<script>
+function dosound() {
+var audio = new Audio('http://zenmagiclove.com/simple/moo.mp3');
+audio.play();
+}</script>
+
+</body>
+</html>
