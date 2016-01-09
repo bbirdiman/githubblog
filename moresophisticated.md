@@ -937,7 +937,7 @@ determine that without breaking any sweat.</p>
 
 
 <div id="chunk93">
-<p>if the text of a chunk starts at the left margin,
+<p style=width:150px>if the text of a chunk starts at the left margin,
 with a letter, z.m.l. says "that is a paragraph."</p>
 </div>
 
@@ -959,7 +959,7 @@ with a letter, z.m.l. says "that is a paragraph."</p>
 
 
 <div id="chunk96">
-<p>and if the text of a chunk starts with a number,
+<p style=width:150px>and if the text of a chunk starts with a number,
 z.m.l. considers it as a "numbered paragraph".
 which means it will be formatted specially, with
 its body indented from the left, while its number
@@ -995,7 +995,7 @@ you just do what you were going to do anyway.)</p>
 
 
 <div id="chunk100">
-<p>if the text of a chunk starts with a left-bracket
+<p style=width:150px>if the text of a chunk starts with a left-bracket
 z.m.l. determines that signal to be a footnote
 -- or end-note, but let's not split hairs yet --
 which means it too will get special formatting,
