@@ -1,6 +1,9 @@
 
 
 
+
+
+
 <div style="background-color:white;width:300px;margin:auto">
 
 
@@ -21,6 +24,7 @@
 <!-- new gourd starts here -->
 
 
+<div style="background-color:white;width:300px;margin:auto">
 
 
 <div id="chunk1" style="background-color:transparent;">
@@ -93,7 +97,7 @@
 <!-- new gourd starts here -->
 
 
-
+<div style="background-color:white;width:300px;margin:auto">
 
 <div id="chunk8" style="background-color:transparent;">
 <a id="table_of_contents"></a>
@@ -150,7 +154,7 @@
 <!-- new gourd starts here -->
 
 
-
+<div style="background-color:white;width:300px;margin:auto">
 
 <div id="chunk11" style="background-color:transparent;">
 <a id="brief_preface_to_this_wordy_orientation"></a>
@@ -215,7 +219,7 @@ because z.m.l. has the features you will need.</p>
 
 <!-- new gourd starts here -->
 
-
+<div style="background-color:white;width:300px;margin:auto">
 
 
 <div id="chunk17" style="background-color:transparent;">
@@ -462,7 +466,7 @@ now we return to regular-person readers.)</p>
 <!-- new gourd starts here -->
 
 
-
+<div style="background-color:white;width:300px;margin:auto">
 
 <div id="chunk42" style="background-color:transparent;">
 <a id="chapter_2_--_chunks_are_stored_in_gourds"></a>
@@ -860,7 +864,7 @@ programmers, in addition to regular people.</p>
 
 <!-- new gourd starts here -->
 
-
+<div style="background-color:white;width:300px;margin:auto">
 
 
 <div id="chunk85" style="background-color:transparent;">
@@ -1316,7 +1320,7 @@ but as far as doing the job, quickly and easily, it works.</p>
 
 <!-- new gourd starts here -->
 
-
+<div style="background-color:white;width:300px;margin:auto">
 
 
 <div id="chunk137" style="background-color:transparent;">
@@ -1506,7 +1510,7 @@ subject to the same rules on white-space.</p>
 <!-- new gourd starts here -->
 
 
-
+<div style="background-color:white;width:300px;margin:auto">
 
 <div id="chunk158" style="background-color:transparent;">
 <a id="chapter_5_--_images_in_your_book"></a>
@@ -1622,7 +1626,7 @@ an ass-backwards glitch in the program i will fix.</p>
 
 <!-- new gourd starts here -->
 
-
+<div style="background-color:white;width:300px;margin:auto">
 
 
 <div id="chunk170" style="background-color:transparent;">
@@ -1774,7 +1778,7 @@ than from yahoo<a style="text-decoration:none;" href="#footnote_yoop">[_yoop_]</
 
 <!-- new gourd starts here -->
 
-
+<div style="background-color:white;width:300px;margin:auto">
 
 
 <div id="chunk186" style="background-color:transparent;">
@@ -1850,7 +1854,7 @@ which meets your needs better in each case.</p>
 
 <!-- new gourd starts here -->
 
-
+<div style="background-color:white;width:300px;margin:auto">
 
 
 <div id="chunk193" style="background-color:transparent;">
@@ -2022,7 +2026,7 @@ the end of the book with all the other footnotes. <a style="text-decoration:none
 <!-- new gourd starts here -->
 
 
-
+<div style="background-color:white;width:300px;margin:auto">
 
 <div id="chunk208" style="background-color:transparent;">
 <a id="chapter_9_--_different_types_of_lists"></a>
@@ -2385,7 +2389,7 @@ so the browser does the numbering.</p>
 
 <!-- new gourd starts here -->
 
-
+<div style="background-color:white;width:300px;margin:auto">
 
 
 <div id="chunk243" style="background-color:transparent;">
@@ -2667,7 +2671,7 @@ kindly left for me, sweetheart my lover girl.</p>
 
 <!-- new gourd starts here -->
 
-
+<div style="background-color:white;width:300px;margin:auto">
 
 
 <div id="chunk280" style="background-color:transparent;">
@@ -2812,7 +2816,7 @@ at least 3 spaces.</p>
 
 <!-- new gourd starts here -->
 
-
+<div style="background-color:white;width:300px;margin:auto">
 
 
 <div id="chunk295" style="background-color:transparent;">
@@ -3171,7 +3175,7 @@ it's best to be conservative; a small indent still works.</p>
 
 <!-- new gourd starts here -->
 
-
+<div style="background-color:white;width:300px;margin:auto">
 
 
 <div id="chunk335" style="background-color:transparent;">
@@ -3208,7 +3212,7 @@ it's best to be conservative; a small indent still works.</p>
 <!-- new gourd starts here -->
 
 
-
+<div style="background-color:white;width:300px;margin:auto">
 
 <div id="chunk338" style="background-color:transparent;">
 <a id="chapter_14_--_epigraphs_and_epitaphs"></a>
@@ -3262,7 +3266,7 @@ which is usually <i>italicized,</i> and often right-justified.</p>
 
 <!-- new gourd starts here -->
 
-
+<div style="background-color:white;width:300px;margin:auto">
 
 
 <div id="chunk343" style="background-color:transparent;">
@@ -3392,7 +3396,7 @@ best to begin the chunk with an empty tag:</p>
 <!-- new gourd starts here -->
 
 
-
+<div style="background-color:white;width:300px;margin:auto">
 
 <div id="chunk354" style="background-color:transparent;">
 <a id="chapter_16_--_hyphens_and_dashes"></a>
@@ -3443,7 +3447,7 @@ make that mistake. it's rather embarrassing, eh?</p>
 
 <!-- new gourd starts here -->
 
-
+<div style="background-color:white;width:300px;margin:auto">
 
 
 <div id="chunk358" style="background-color:transparent;">
@@ -3481,7 +3485,7 @@ and you never know exactly how the text will reflow.</p>
 <!-- new gourd starts here -->
 
 
-
+<div style="background-color:white;width:300px;margin:auto">
 
 <div id="chunk361" style="background-color:transparent;">
 <a id="chapter_18_--_spaces_after_a_sentence"></a>
@@ -3541,7 +3545,7 @@ browsers will soon support better typography.</p>
 
 <!-- new gourd starts here -->
 
-
+<div style="background-color:white;width:300px;margin:auto">
 
 
 <div id="chunk366" style="background-color:transparent;">
@@ -3685,7 +3689,7 @@ confusing for your readers. so choose one or the other. <a style="text-decoratio
 <!-- new gourd starts here -->
 
 
-
+<div style="background-color:white;width:300px;margin:auto">
 
 <div id="chunk378" style="background-color:transparent;">
 <a id="chapter_20_--_meta-data_for_this_book"></a>
